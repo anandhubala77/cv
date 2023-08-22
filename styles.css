@@ -44,7 +44,7 @@ body{
 }
 .profile img{
     width: 80%;
-    border-radius: 40%;
+    border-radius: 50%;
     border: 8px solid #002333;
     
 }
@@ -200,7 +200,7 @@ body{
 
 .para{
     line-height: 1.6rem;
-    color: #718096;
+    color: #070708;
     font-size: 1.4rem;
 }
 
