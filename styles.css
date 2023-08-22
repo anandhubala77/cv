@@ -114,7 +114,7 @@ body{
 .progress-bar{
     width: 100%;
     height: .4rem;
-    background-color: #2f81ed5b;
+    background-color: #090b0e5b;
     position: relative;
     border-radius: 12px;
 }
@@ -201,7 +201,7 @@ body{
 .para{
     line-height: 1.6rem;
     color: #718096;
-    font-size: 1.1rem;
+    font-size: 1.4rem;
 }
 
 .sect{
@@ -222,7 +222,7 @@ body{
 .tl-title-2{
     letter-spacing: 1px;
     font-size: 1.3rem;
-    color: #2D9CDB;
+    color: #060707;
     text-transform: uppercase;
 }
 
